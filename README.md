@@ -1,6 +1,6 @@
 # Student mark prediction and deployment through AWS: Project Overview
 
-- Created a model which predicts the precentage of marks students can acquire given the number of hours they study using Linear Regression with 95% accuracy.
+- Created a model which predicts the percentage of marks students can acquire given the number of hours they study using Linear Regression with 95% accuracy.
 
 - Created a Flask server and website to deploy the Machine Learning Model on local server.
 
